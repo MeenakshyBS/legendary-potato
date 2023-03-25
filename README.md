@@ -17,7 +17,9 @@ Here's a fun little program that uses the OpenAI API to generate a random fun fa
 - Once you have created an account, you can find your API key by going to https://beta.openai.com/account/api-keys.
 - Copy the API key provided on that page and replace "YOUR_API_KEY" in the code snippet with your actual API key. 
 
+## Output
 
+<img width="568" alt="Screenshot 2023-03-25 at 6 00 52 PM" src="https://user-images.githubusercontent.com/64766054/227718842-2460d5c2-2cca-497c-8cae-9f66fea8a41b.png">
 
 ## License
 
